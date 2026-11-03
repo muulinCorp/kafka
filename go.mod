@@ -1,4 +1,4 @@
-module github.com/94peter/kafka
+module github.com/muulinCorp/kafka
 
 go 1.19
 
